@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Record Watcher">82c49b5d83abf51046450878beaad3d9</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters>query,extraParams,views,selectedTabIndex</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">b5369f5d83abf51046450878beaad353</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>jon.lind</sys_created_by>
+        <sys_created_on>2024-01-04 20:44:37</sys_created_on>
+        <sys_id>f1369f5d83abf51046450878beaad356</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Record Watcher Demo" source="x_snc_rec_watc">6f54135d83abf51046450878beaad32c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Record Watcher Demo">6f54135d83abf51046450878beaad32c</sys_scope>
+        <sys_update_name>sys_ux_app_route_f1369f5d83abf51046450878beaad356</sys_update_name>
+        <sys_updated_by>jon.lind</sys_updated_by>
+        <sys_updated_on>2024-01-04 20:44:37</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=f1369f5d83abf51046450878beaad356"/>
+</record_update>
